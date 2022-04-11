@@ -11,5 +11,9 @@
     "test": "test"
   },
   "author": "Justin Woolley",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.2"
+  }
 }
