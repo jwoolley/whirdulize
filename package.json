@@ -1,0 +1,11 @@
+{
+  "name": "whirdulize",
+  "version": "1.0.0",
+  "description": "a tool to help with generating whirdul dictionary (and target) words",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
