@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "a tool to help with generating whirdul dictionary (and target) words",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwoolley/whirdulize.git"
+  },
   "scripts": {
     "test": "test"
   },
-  "author": "",
+  "author": "Justin Woolley",
   "license": "ISC"
 }
